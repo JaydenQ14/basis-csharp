@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="basis-csharp/basis-csharp.csproj" />
+  <Project Path="csharp-opdracht2/csharp-opdracht2.csproj" />
 </Solution>
