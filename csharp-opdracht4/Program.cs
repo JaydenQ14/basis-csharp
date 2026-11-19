@@ -4,7 +4,16 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int getal = 2;
+
+            if (getal >= 1 && getal <= 5)
+            {
+                Console.WriteLine("Het getal is binnen bereik");
+            }
+            else
+            {
+                Console.WriteLine("Het getal is buiten bereik");
+            }
         }
     }
 }

@@ -3,4 +3,6 @@
   <Project Path="csharp-opdracht2/csharp-opdracht2.csproj" />
   <Project Path="csharp-opdracht3/csharp-opdracht3.csproj" />
   <Project Path="csharp-opdracht4/csharp-opdracht4.csproj" Id="83a8d91e-f520-407d-9b49-41625481ccdb" />
+  <Project Path="csharp-opdracht5/csharp-opdracht5.csproj" Id="df86e73a-4ff4-4848-a74e-b1b06906a5e6" />
+  <Project Path="csharp-opdracht6/csharp-opdracht6.csproj" Id="d4d44faf-fcd8-4e8e-b384-aa8cf455f32e" />
 </Solution>
