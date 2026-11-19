@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string invoer = "42";
+            int getal = int.Parse(invoer);
+            int resultaat = getal * 2;
+            Console.WriteLine($"Het dubbele is: {resultaat}"); // het verandert de string in een int en verdubbelt het getal
+            Console.ReadLine();
         }
     }
 }
