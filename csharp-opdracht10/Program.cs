@@ -4,7 +4,25 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int i = 0;
+            while (i < 11 && i != 4)
+                
+            {
+                Console.WriteLine(i);
+                i++;
+            }
+            while (i == 4)
+            {
+                Console.WriteLine();
+                i++;
+            }
+           
+            while (i < 11 && i != 4)
+
+            {
+                Console.WriteLine(i);
+                i++;
+            }
         }
     }
 }
