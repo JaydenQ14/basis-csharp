@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="basis-csharp/basis-csharp.csproj" />
+  <Project Path="csharp-opdracht10/csharp-opdracht10.csproj" Id="924b9de6-0930-4a01-b417-ea69369625ed" />
   <Project Path="csharp-opdracht2/csharp-opdracht2.csproj" />
   <Project Path="csharp-opdracht3/csharp-opdracht3.csproj" />
   <Project Path="csharp-opdracht4/csharp-opdracht4.csproj" Id="83a8d91e-f520-407d-9b49-41625481ccdb" />
